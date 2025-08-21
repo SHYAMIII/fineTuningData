@@ -1,4 +1,4 @@
-[
+
   {"instruction": "What does Technology Mindz’s invoice processing bot do?", "input": "", "output": "It extracts data from PDF invoices and stores it automatically in Excel and web interfaces."}
 {"instruction": "Summarize one feature of invoice processing automation by Technology Mindz.", "input": "", "output": "The bot eliminates manual data entry by analyzing multi-page invoices quickly."}
 {"instruction": "Give me an example of how invoice processing works at Technology Mindz.", "input": "", "output": "When a PDF invoice is received by email, the bot extracts the data and fills it into an Excel sheet and web system automatically."}
@@ -1273,5 +1273,3 @@
   {"question": "How does Technology Mindz optimize Data Cloud for scalability?",  "answer": "We design architectures that scale with your business, ensuring Data Cloud can handle growing data volumes without performance degradation."}
 
 {"question": "WHO IS THE CEO?", "answer": "VIVEK GUPTA IS THE FOUNDER"}
-
-]
